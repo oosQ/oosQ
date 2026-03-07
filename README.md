@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=header" width="100%" />
-</div>
+</div> -->
 
 
 <p align="left">
@@ -76,6 +76,6 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer" width=100%/>
-</p>
+</p> -->
