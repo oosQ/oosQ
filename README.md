@@ -1,9 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=header" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=800&repeat=false&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+world+%F0%9F%91%8B+I'm+Ali+Almubarak" />
-
 </div>
 
 
