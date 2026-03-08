@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,linux,kali,ubuntu,docker,c,cs,dart,dotnet,figma,flutter,go,graphql,java,js,ts,mongodb,mysql,sqlite,supabase,nextjs,nodejs,bootstrap,taliwind,opencv,php,postman,py,react," />
+    <img src="https://skillicons.dev/icons?i=git,bash,linux,kali,ubuntu,docker,c,cs,dart,dotnet,figma,flutter,go,graphql,java,js,ts,mongodb,mysql,sqlite,supabase,nextjs,nodejs,bootstrap,tailwind,opencv,php,postman,py,react," />
   </a>
 </p>
 
