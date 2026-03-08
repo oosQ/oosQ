@@ -10,7 +10,6 @@
 </p>
 
 # Tech Stack
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,linux,kali,ubuntu,docker,c,cs,dart,dotnet,figma,flutter,go,graphql,java,js,ts,mongodb,mysql,sqlite,supabase,nextjs,nodejs,bootstrap,tailwind,opencv,php,postman,py,react," />
@@ -19,10 +18,9 @@
 
 
 # Contribution Activity
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=oosQ&theme=transparent&border_radius=4.4&card_width=400">
-<img src="https://git-stat.naser.1jz.cc/api?username=oosQ&show_icons=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=oosQ&theme=transparent&border_radius=4.4&card_width=400" width="49%">
+<img src="https://git-stat.naser.1jz.cc/api?username=oosQ&show_icons=true&theme=transparent" width="49%">
 </p>
 
 
