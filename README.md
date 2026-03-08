@@ -19,7 +19,7 @@
 
 # Contribution Activity
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=oosQ&theme=transparent&border_radius=4.4&card_width=400" width="49%" height="170">
+<img src="https://streak-stats.demolab.com?user=oosQ&theme=transparent&border_radius=4.4&card_width=420" width="49%" height="170">
 <img src="https://git-stat.naser.1jz.cc/api?username=oosQ&show_icons=true&theme=transparent" width="49%" height="170">
 </p>
 
