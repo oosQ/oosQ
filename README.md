@@ -16,13 +16,16 @@
   </a>
 </p>
 
-
 # Contribution Activity
 <p align="center">
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td><img src="https://streak-stats.demolab.com?user=oosQ&theme=transparent&border_radius=4.4&card_width=420" height="170"></td>
-<td><img src="https://git-stat.naser.1jz.cc/api?username=oosQ&show_icons=true&theme=transparent" height="170"></td>
+<td>
+<img src="https://streak-stats.demolab.com?user=oosQ&theme=transparent&hide_border=true&border_radius=4.4&card_width=420" height="170">
+</td>
+<td>
+<img src="https://git-stat.naser.1jz.cc/api?username=oosQ&show_icons=true&hide_border=true&theme=transparent" height="170">
+</td>
 </tr>
 </table>
 </p>
