@@ -21,10 +21,8 @@
 # Contribution Activity
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=oosQ&theme=transparent&border_radius=4.4&card_width=502)" width="700px" height=300>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oosQ&theme=react-dark" width="700px"/>
+<img src="https://streak-stats.demolab.com?user=oosQ&theme=transparent&border_radius=4.4&card_width=400">
+<img src="https://git-stat.naser.1jz.cc/api?username=oosQ&show_icons=true&theme=transparent" />
 </p>
 
 
