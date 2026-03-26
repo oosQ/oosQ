@@ -1,8 +1,3 @@
-<!-- <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=header" width="100%" />
-</div> -->
-
-
 <p align="left">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1000&pause=200&repeat=false&color=F70000&vCenter=true&multiline=true&width=920&height=540&lines=Initializing+profile...;(ali%E3%89%BFkali)-%5B~%5D+%24+whoami;ali+almubarak;(ali%E3%89%BFkali)-%5B~%5D+%24+id;uid%3D1000(ali)+gid%3D1000(developers)+groups%3Dlinux%2Csecurity%2Cdev;(ali%E3%89%BFkali)-%5B~%5D+%24+cat+about_me.txt;1.Senior+IT+student+at+University+of+Bahrain;2.Cybersecurity+enthusiast;3.Full-stack+developer;(ali%E3%89%BFkali)-%5B~%5D+%24+ls+skills;backend;frontend;security;(ali%E3%89%BFkali)-%5B~%5D+%24+python3+exploit.py;Exploit+executed+successfully;(ali%E3%89%BFkali)-%5B~%5D+%24+nmap+-sC+-sV+YourNetwork;(ali%E3%89%BFkali)-%5B~%5D+%24+sqlmap+-u+YourWeb+--dbs;(ali%E3%89%BFkali)-%5B~%5D+%24+hydra+-l+admin+-P+rockyou.txt+ssh://YourDevice"/>
