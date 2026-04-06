@@ -25,7 +25,3 @@
 </table>
 </p>
 
-
-<!-- <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer" width=100%/>
-</p> -->
